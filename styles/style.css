@@ -3,6 +3,11 @@ html {
     font-family: monospace;
 }
 
+#Intro {
+    position: absolute;
+    top: 0;
+}
+
 #calc {
     display: flex;
     min-height: 95vh;
