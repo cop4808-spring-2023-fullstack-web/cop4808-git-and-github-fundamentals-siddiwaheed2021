@@ -30,4 +30,4 @@
 
 ## Below is the Gif of the project
 
-[Imgur](https://imgur.com/ocwsSIv)
+![Imgur](https://imgur.com/ocwsSIv.gif)
