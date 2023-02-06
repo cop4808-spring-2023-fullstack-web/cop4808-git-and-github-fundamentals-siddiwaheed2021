@@ -1,10 +1,11 @@
-# Siddi Annas Waheed
-# Z#23590937 
-# HW 2
+## Siddi Annas Waheed
+## Z#23590937 
+## HW 2
 
 
+</br>
 
-## Updated the Calculator, From HW1     
+#  Updated the Calculator, From HW1     
  
   
 </br>
