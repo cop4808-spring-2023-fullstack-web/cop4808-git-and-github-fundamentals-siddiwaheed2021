@@ -117,3 +117,6 @@ button {
 .fx {
     background-color: #09e67b;
 }
+.fx:active {
+    background-color: #acfcd5;
+}
