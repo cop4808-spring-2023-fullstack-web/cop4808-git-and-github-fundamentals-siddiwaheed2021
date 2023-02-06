@@ -176,7 +176,16 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
-    }
+    } else if (op === 'Sin'){
+        return Math.sin(y);
+    } else if (op === 'Cos'){
+        return Math.cos(y);
+    } else if (op === 'Ln'){
+        return Math.log(y);
+    }else if (op === 'Sqr'){
+        return y * y;
+    } 
+
 }
 
 function roundAccurately(num, places) {
