@@ -29,7 +29,9 @@ function clickButton() {
                 updateDisplay();
             } else if(buttons[i].classList.contains('operator')) {
                 inputOperator(buttons[i].value);
-            } else if(buttons[i].classList.contains('operatorFunctions')) {
+            } 
+            // adding event listners to new buttons 
+            else if(buttons[i].classList.contains('operatorFunctions')) {
                     inputOperator(buttons[i].value);
             } else if(buttons[i].classList.contains('equals')) {
                 inputEquals();
@@ -178,7 +180,9 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
-    } else if (op === 'Sin'){
+    }
+    // logic for new buttons 
+     else if (op === 'Sin'){
         return Math.sin(y);
     } else if (op === 'Cos'){
         return Math.cos(y);
