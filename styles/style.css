@@ -113,3 +113,7 @@ button {
 .percent:active {
     background-color: rgb(123, 189, 255);
 }
+
+.fx {
+    background-color: #09e67b;
+}
