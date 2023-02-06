@@ -66,6 +66,15 @@ button {
     background-color: #ffc183;
 }
 
+
+.operatorFunctions {
+    background-color: #c300ff; 
+}
+
+.operatorFunctions:focus {
+    background-color: #e49cfa; 
+}
+
 .equals {
     background-color: #FF8F1F;
 }
