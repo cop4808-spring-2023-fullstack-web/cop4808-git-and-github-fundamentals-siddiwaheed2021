@@ -32,5 +32,8 @@
 
 ![Imgur](https://imgur.com/ocwsSIv.gif)
 
+![Imgur](https://imgur.com/TlzIW1h.gif)
+
+
 ## HD Video Demo 
 https://youtu.be/baeFA3yoCnA
